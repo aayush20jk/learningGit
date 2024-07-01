@@ -1,6 +1,7 @@
+#.gitignore - sometime you don't want everyone to know some of your thing in GIT. like api or wallet ID
+# so you create a file .gitignore - then you write name of file (as it is) you don't want to upload to github.
 asdf.txt
 asdfs.txt
 
 #this files are to be ignore
-
 #also you can use *.txt , this will ignore all the text file. but obviously we don't want that.
